@@ -1,3 +1,2 @@
-# HOROSCOPE.ODDE
-My horoscope with php
-try out demo [here](https://odde90.github.io/HOROSCOPE.ODDE/)
+# Horoscope_Assigment
+http://christiantoledo.wieg17.se/Horoscope_Assigment/

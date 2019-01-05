@@ -62,3 +62,9 @@ p{
     border: 2px solid white;
 
 }
+audio {
+    background-color: blue;
+}
+source {
+background-color: pink;
+}
